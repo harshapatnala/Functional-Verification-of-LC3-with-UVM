@@ -1,0 +1,4 @@
+needs:
+  - decode_out_shared.compile
+  - decode_out_hvl.compile
+  - decode_out_hdl.compile
