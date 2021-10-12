@@ -1,0 +1,2 @@
+# Functional-Verification-of-LC3-with-UVM
+This project deals with the chip-level functional verification of pipelined LC3 microprocessor with UVM. The project is split into parts based on the five block stages of the design. Currently, I am working at the block-level verification of the decode stage of the processor. At this point, the test environment is built for the decode stage based on UVM component hierarchy.  Part of this sub-project is executed using the UVMF code generator.
